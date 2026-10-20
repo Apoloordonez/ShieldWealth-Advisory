@@ -1,0 +1,6 @@
+{
+  "name": "ShieldWealth Advisory | Orientación de Salud Ecuador",
+  "description": "Plataforma independiente y autogestionada de orientación sobre alternativas de salud asociadas a BMI en Ecuador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
